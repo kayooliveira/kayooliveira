@@ -2,7 +2,6 @@
 ### I'm a full stack developer and graphic designer, currently working with PHP and ReactJS
 <hr>
 
-#### Developer of <a href="https://laletra.com.br">laletra.com.br (in development)<a> and <a href="http://rangelimoveisrj.com.br">rangelimoveisrj.com.br</a>
 #### Currently providing services to the @LifeVet company.
 
 <p align="left"> 
