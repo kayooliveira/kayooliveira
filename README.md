@@ -12,6 +12,8 @@
   <a href="https://github.com/kayooliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayooliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayooliveira&layout=compact&langs_count=7&theme=dracula"/>
+	  
+ [![Kayo GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kayooliveira&theme=dracula)](https://git.io/streak-stats)
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kayo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -31,7 +33,6 @@
   <img align="center" alt="Kayo-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Kayo-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Kayo-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="right" alt="Kayo-Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/tpMJeQD.png">
 </div>
  
 ##
@@ -46,6 +47,6 @@
   ![Snake animation](https://github.com/kayooliveira/kayooliveira/blob/output/github-contribution-grid-snake.svg)
 
 
-![Andre GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kayooliveira&hide_border=true&theme=redical)
+![Kayo GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kayooliveira&hide_border=true&theme=redical)
  
 </div>
