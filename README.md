@@ -44,7 +44,7 @@
  
   ![Snake animation](https://github.com/kayooliveira/kayooliveira/blob/output/github-contribution-grid-snake.svg)
 
-
-![Kayo GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kayooliveira&hide_border=true&theme=redical)
+<!-- 
+![Kayo GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kayooliveira&hide_border=true&theme=redical) -->
  
 </div>
