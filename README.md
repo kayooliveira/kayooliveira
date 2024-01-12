@@ -46,8 +46,5 @@
   <a href = "mailto:contato@kayooliveira.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
  
   <!-- ![Snake animation](https://github.com/kayooliveira/kayooliveira/blob/output/github-contribution-grid-snake.svg)-->
-
-
-![Kayo GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kayooliveira&hide_border=true&theme=redical)
  
 </div>
