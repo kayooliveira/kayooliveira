@@ -23,6 +23,6 @@
  	<a href="https://www.twitch.tv/okayozin" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@kayooliveira.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/kayooliveira/kayooliveira/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/kayooliveira/kayooliveira/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
