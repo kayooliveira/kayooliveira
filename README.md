@@ -1,5 +1,5 @@
 # Hi! I'm Kayo Oliveira.
-### I'm a Full Stack Web Developer, currently working with React and Node/PHP. Since I was young I have always been passionate about technology, I started studying programming in 2015 because a friend showed me HTML and CSS and I was passionate about seeing those black screens with a lot of mixed names that in the end formed a website or a sensational little program, since then I always tried to study more and more the programming area.
+### I'm a Full Stack Web Developer, currently working with React, Node, PHP, Adonis, Nest. Since I was young I have always been passionate about technology, I started studying programming in 2015 because a friend showed me HTML and CSS and I was passionate about seeing those black screens with a lot of mixed names that in the end formed a website or a sensational little program, since then I always tried to study more and more the programming area.
 
 <hr>
 
