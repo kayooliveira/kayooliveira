@@ -1,6 +1,6 @@
 # 👨‍💻 Kayo Oliveira
 
-Desenvolvedor Fullstack | Especialista em Mobile na Méliuz
+Desenvolvedor Fullstack | Desenvolvedor Mobile na Méliuz
 
 Sou desenvolvedor fullstack com sólida experiência em construir aplicações robustas e escaláveis. Atualmente, atuo como desenvolvedor mobile na Méliuz, onde ajudo a criar soluções que impactam milhares de pessoas todos os dias.
 
